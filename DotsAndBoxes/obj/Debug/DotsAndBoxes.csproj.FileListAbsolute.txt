@@ -1,0 +1,19 @@
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\bin\Debug\DotsAndBoxes.exe.config
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\bin\Debug\DotsAndBoxes.exe
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\bin\Debug\DotsAndBoxes.pdb
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.csprojResolveAssemblyReference.cache
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.Properties.Resources.resources
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.csproj.GenerateResource.Cache
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.exe
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.pdb
+c:\users\wdj19\onedrive\documents\visual studio 2017\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.frmDAB.resources
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\bin\Debug\DotsAndBoxes.exe.config
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\bin\Debug\DotsAndBoxes.exe
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\bin\Debug\DotsAndBoxes.pdb
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.csprojResolveAssemblyReference.cache
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.frmDAB.resources
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.Properties.Resources.resources
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.csproj.GenerateResource.Cache
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.csproj.CoreCompileInputs.cache
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.exe
+C:\Users\wdj19\Desktop\Projects\DotsAndBoxes\DotsAndBoxes\obj\Debug\DotsAndBoxes.pdb
