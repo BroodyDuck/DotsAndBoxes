@@ -41,28 +41,28 @@ namespace DotsAndBoxes
         {
             //Evens are player 1, odds are player 2.
 
-            ((Label)sender).BackColor = playerColor();
+            ((Label)sender).BackColor = PlayerColor();
 
-            var first = ((Label)sender).Name.Substring(0, 1);
-            var second = ((Label)sender).Name.Substring(1, 1);
+            var firstLabelLetter = ((Label)sender).Name.Substring(0, 1);
+            var secondLabelLetter = ((Label)sender).Name.Substring(1, 1);
 
 
-            if (checkBox(first))
+            if (CheckBox(firstLabelLetter))
             {
-                completeBox(first);
+                CompleteBox(firstLabelLetter);
             }
 
-            if (!char.IsDigit(second.First()))
+            if (!char.IsDigit(secondLabelLetter.FirstOrDefault()))
             {
-                if (checkBox(second))
+                if (CheckBox(secondLabelLetter))
                 {
-                    completeBox(second);
+                    CompleteBox(secondLabelLetter);
                 }
             }
             mainCounter++;
         }
 
-        public bool checkBox(string letter)
+        public bool CheckBox(string letter)
         {
             var boxSides = Controls.OfType<Label>().Where(x => x.Name.Contains(letter) && x.Name.Count() == 2).ToList();
 
@@ -74,10 +74,10 @@ namespace DotsAndBoxes
             return (counter == 4);
         }
 
-        public void completeBox(string letter)
+        public void CompleteBox(string letter)
         {
             Controls.OfType<Label>().Where(x => x.Name == letter).FirstOrDefault().Text = "W";
-            Controls.OfType<Label>().Where(x => x.Name == letter).FirstOrDefault().ForeColor = playerColor();
+            Controls.OfType<Label>().Where(x => x.Name == letter).FirstOrDefault().ForeColor = PlayerColor();
 
             if (mainCounter % 2 == 0)
                 playerOneScore++;
@@ -98,7 +98,7 @@ namespace DotsAndBoxes
                 return;
             }
         }
-        public Color playerColor()
+        public Color PlayerColor()
         {
             return (mainCounter % 2 == 0) ? Color.Red : Color.Blue;
         }           
